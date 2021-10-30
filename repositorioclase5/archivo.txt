@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 hola, cómo estás
 Genial 
 Cool
 
-=======
 hola, cómo te va?
 bien
 me alegro
 ¿qué tal el verano?
 super 
->>>>>>> 5d65040d14968432809ca54e1fd344adcb883a8d
