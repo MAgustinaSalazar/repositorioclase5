@@ -1,1 +1,1 @@
-Un repositorio es 
+Un repositorio es una herramienta para conectar info remota y local 

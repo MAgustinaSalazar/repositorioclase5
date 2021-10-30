@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+hola1
+DH
+=======
 hola mundo
+>>>>>>> e82867a10f81383f319b750e1c616e115d388fb7
